@@ -1,5 +1,9 @@
-a=231
-b=21.0
-c="shanmukha"
-d=True
-print(type(a),type(b),type(c),type(d))
+a=98
+b=94
+c=41
+d=95
+e=11
+sum=a+b+c+d+e
+print("the sum is=",sum)
+average=sum/5
+print("avrage is=",average)
