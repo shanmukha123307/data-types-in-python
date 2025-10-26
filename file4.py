@@ -1,2 +1,0 @@
-ram="congragulations"
-print(ram)
